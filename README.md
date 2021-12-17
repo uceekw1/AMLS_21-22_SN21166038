@@ -12,19 +12,19 @@ All the necessary files for this assignment are in "FinalSubmission" folder; It 
   3. KNN model for Task B
   4. SVM model for Task B
   5. CNN model for Task B
-  6. dataset folder: This is the original data set
+  6. dataset folder               is the original data set
   
-        image folder              Contains 3000 original MRI images
+        image folder              contains 3000 original MRI images
         
-        image256 folder           Contains 3000 resolution reduced MRI images; Necessary to run all five models in JupyterNotebook!!!
+        image256 folder           contains 3000 resolution reduced MRI images; Necessary to run all five models in JupyterNotebook!!!
         
-        label.csv                 Image label file
+        label.csv                 is image label file
         
-  7. test-2 folder                This is the new released data set
+  7. test-2 folder                is the new released data set
   
-        image folder              Contains 200 new MRI images
+        image folder              contains 200 new MRI images
         
-        image256 folder           Contains 200 new resolution reduced MRI images; Necessary to run all five models in JupyterNotebook!!!
+        image256 folder           contains 200 new resolution reduced MRI images; Necessary to run all five models in JupyterNotebook!!!
         
-        label.csv                 Image label file
+        label.csv                 is image label file
       
